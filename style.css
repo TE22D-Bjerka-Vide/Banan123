@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Rubik&display=swap');
+
+body{
+background-image:url(./bilder/brett-frigo-xG-3id8ZYNI-unsplash.jpg) ;
+background-attachment: fixed;
+}
+
+h1{
+    font-family: 'Rubik Burned', system-ui;
+    color: white;
+}
+
+h2{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+p{
+    font-family: 'Rubik', sans-serif;
+color: white;
+}
+
+a{
+
+}
